@@ -1,4 +1,4 @@
 # Croissant-Addon-For-Bedrock-Eddition
 CROISSANT
 
-click onto the folder and do "ctrl + shift + s" to download it
+click onto the folder called CroissantAddon, and do "ctrl + shift + s" to download it
