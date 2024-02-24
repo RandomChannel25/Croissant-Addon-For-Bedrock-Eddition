@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Croissants",
+		"description": "Croissants Behavior Pack",
+		"uuid": "1a89b7ff-88e2-83a3-1a2a-7378a3b1ec31",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 19, 0]
+	},
+	"metadata": {
+		"authors": ["EinFan123456"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.0.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "37cdd932-c5a7-32bc-aa08-4d0f4f267132",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "baa68de0-6894-8b1f-2ec7-bd7a95e275a5",
+			"version": [1, 0, 0]
+		}
+	]
+}

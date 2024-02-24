@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "bestfood:recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#W#",
+            "WBW",
+            "#W#"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:diamond"
+            },
+            "W": {
+                "item": "minecraft:wheat"
+            },
+            "B": {
+                "item": "minecraft:bread"
+            }
+        },
+        "result": {
+            "item": "bestfood:croissant",
+            "count": 3
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Croissants",
+		"description": "Croissants Resource Pack",
+		"uuid": "baa68de0-6894-8b1f-2ec7-bd7a95e275a5",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["EinFan123456"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.0.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Croissants",
+			"type": "resources",
+			"uuid": "6e5bbe6e-09cc-4eba-77c1-a7dbec84f887",
+			"version": [1, 0, 0]
+		}
+	]
+}
